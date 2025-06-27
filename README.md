@@ -16,8 +16,11 @@ https://1drv.ms/v/c/5964071d93625545/ETpAha_ZoFhIiWKW_J3JF8wBsCHMeXc12NuEFAyXINy
 **Requirements**
 
 NVIDIA Jetson Nano Orin
-Python 3
+
+Python 3 
+
 YOLOv8 trained classification model (exported to ONNX format)
+
 Jetson Inference repository (https://github.com/dusty-nv/jetson-inference)
 
 **Author Info**
