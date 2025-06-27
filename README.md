@@ -4,7 +4,8 @@ This project uses a dataset of common fruits to train a YOLOv8 classification mo
 
 ![image](https://github.com/user-attachments/assets/aadcd59b-abe9-4b1c-b314-635feba48652)
 
-Why
+**Why**
+
 Classifying fruits correctly is essential for farmers, vendors, and retailers to streamline sorting, inventory, and sales. This program removes the guesswork by providing fast, accurate fruit identification directly on the Jetson Nano edge device, without needing internet connectivity or manual lookup.
 
 
